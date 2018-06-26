@@ -1,18 +1,18 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
+---
+latitude: 40.71925
+longitude: -73.99999
 map_zoom: 12
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
+name: 11 Howard
+email: steffan@traveltripper.io
+phone_number: 001-111-1111
 address:
-  city: "New York"
-  country: "United States"
-  state: "NY"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: required-but-empty #24northhotel, demo, demohotel
-_ttweb_plugins_version: "v2"
+  street1: 11 Howard Street
+  street2: ''
+  state: New York
+  city: New York
+  country: United States
+  zip_code: '10013'
+_hotel_id: 11H917
+_portal_id: required-but-empty
+_ttweb_plugins_version: v2
+_root_path: http://rtexpress-qa.ttaws.com/rt
